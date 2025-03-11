@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: var(--framer-font-family, Inter, Inter Placeholder, sans-serif);
+  font-weight: 400;
+  font-size: 14px;
+  color: #e2e2e2;
+  background: #000000;
+  align-items: center;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 49px;
+  text-transform: uppercase;
+}
+
+/* count number */
+h2 {
+  font-size: 30px;
+}
+h3 {
+  margin: 0;
+  font-size: 17px;
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  line-height: normal;
+  font-size: 14px;
+}
+
